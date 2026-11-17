@@ -2,15 +2,30 @@
 
 
 
+
+
+<div align="center">
+    
 # 👋Hi, I'm Vince Punzalan <img width="50" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bWxocTFiMGYwbzNkeDdsNWV4cWFtazN3MjdyeWlvd2h2cnd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 
+</div>
 
+<br>
 
-## About me
+<div align="center">
 
-im starting to customize my github profile!
+## 👨‍💻 About Me
 
-<p alignment="center">
-    <b>test test</b>
+</div>
+- 🎓 I'm a BSIT Student<br>
+- 💻 Interested in Programming and Web Development<br>
+- 🤖 Exploring AI and Automation<br>
+- ☁️ (currently)Learning google extensions<br>
+- 🎮 Roblox Gamer and Manga Reader<br>
+- 🚀 Always learning and building new projects if i have a free time<br>
 
-</p>
+<div align="center">
+
+## 💻 I Code With
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,discord,git,ai,robloxstudio,vscode," />
+</div>
