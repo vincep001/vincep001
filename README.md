@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-<img width="390" height="200" alt="image" src="https://github.com/user-attachments/assets/b562a34c-5326-404e-a2c1-cd2740811e66" />
+<img width="390" height="200" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXF2NXA4MjlrNjU0emE4NGNiYnEycjR1bDMzZnFsMDAyNmlyNG9ubiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mO0O4Dm7O1JP26exUu/200.webp" />
 </p>
 
 
