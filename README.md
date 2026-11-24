@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
@@ -33,9 +40,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
+
+<!--option 1 for git commit graph>
+<!-- <p align="center">
     <img src="https://raw.githubusercontent.com/vincep001/vincep001/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p> -->
+
+
+<p align="center">
+  <img src="./assets/vince-snake-around-name.svg"
+       alt="VINCE Snake Animation"
+       width="80%"
 </p>
+
 
 
 
