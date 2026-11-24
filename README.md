@@ -7,7 +7,6 @@
 
 
 
-
 <div align="center">
     
 # 👋Hi, I'm Vince Punzalan <img width="50" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bWxocTFiMGYwbzNkeDdsNWV4cWFtazN3MjdyeWlvd2h2cnd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
@@ -27,6 +26,12 @@
 - ☁️ (currently)Learning google extensions<br>
 - 🎮 Roblox Gamer and Manga Reader<br>
 - 🚀 Always learning and building new projects if i have a free time<br>
+
+
+## github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=dark)](https://git.io/streak-stats) 
+
 
 <div align="center">
 
