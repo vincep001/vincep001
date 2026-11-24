@@ -2,12 +2,6 @@
 
 
 
-
-<p align="center"><img  alt="[Art Pixel GIF by Megan" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpOTRnY2wycmlmZTd3Z24wZm14dmF4eHZ2Mmx2ZjhnajY0cHI4eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/200.webp" alignment="center"/></p>
-
-
-
-
 <div align="center">
 
 # 👋 Hi, I'm Vince Punzalan <img width="50" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bWxocTFiMGYwbzNkeDdsNWV4cWFtazN3MjdyeWlvd2h2cnd2ayZlcD12MV9pbnRlcm5hbF9pZl9iZCZjdD1z/5eLDrEaRGHegx2FeF2/giphy.gif">
@@ -36,17 +30,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/vincep001/vincep001/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
+
 
 
 
 <div align="center">
 
-## github stats
+## 📊github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=tokyonight)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincep001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
