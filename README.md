@@ -8,10 +8,12 @@
 
 
 <div align="center">
-    
-# 👋Hi, I'm Vince Punzalan <img width="50" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bWxocTFiMGYwbzNkeDdsNWV4cWFtazN3MjdyeWlvd2h2cnd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
+
+# 👋 Hi, I'm Vince Punzalan <img width="50" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bWxocTFiMGYwbzNkeDdsNWV4cWFtazN3MjdyeWlvd2h2cnd2ayZlcD12MV9pbnRlcm5hbF9pZl9iZCZjdD1z/5eLDrEaRGHegx2FeF2/giphy.gif">
 
 </div>
+
+
 
 <br>
 
@@ -38,3 +40,6 @@
 ## 💻 I Code With
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,discord,git,ai,robloxstudio,vscode," />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
