@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
@@ -18,9 +19,6 @@
 </p>
 
 
-
-<br>
-
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -34,14 +32,28 @@
 - 🚀 Always learning and building new projects if i have a free time<br>
 
 
-## github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=dark)](https://git.io/streak-stats) 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 
 <div align="center">
 
-## 💻 I Code With
+## github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=dark)](https://git.io/streak-stats) 
+</div>
+
+
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> I Code With<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,discord,git,ai,robloxstudio,vscode," />
 </div>
 
