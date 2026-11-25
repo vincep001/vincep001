@@ -61,7 +61,29 @@
 
 ## 📊github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincep001&theme=tokyonight)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincep001&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vincep001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td rowspan="2">     
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincep001&layout=normal&theme=tokyonight&hide_border=true&langs_count=10" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=vincep001&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+      
 </div>
 
 
